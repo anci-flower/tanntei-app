@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "82aa38d5bff601d0270d941553d18cc9",
-    "url": "/tanntei-app/static/media/pic3.82aa38d5.jpg"
+    "revision": "ae76859162efd2fa71e2a4b8eb84753b",
+    "url": "/tanntei-app/static/media/water-1.ae768591.svg"
   },
   {
-    "revision": "e2234a545d291a68e7df",
-    "url": "/tanntei-app/static/css/main.1cf64130.chunk.css"
+    "revision": "d34b32ec5d03934cd3e7",
+    "url": "/tanntei-app/static/css/main.f4c7b952.chunk.css"
   },
   {
     "revision": "0d7e5593f951eceaa5bd",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/tanntei-app/static/media/header_bg.fdf387f0.jpg"
   },
   {
-    "revision": "befa925673f40efe7899",
-    "url": "/tanntei-app/static/js/2.75ad97e7.chunk.js"
+    "revision": "6779a5dc802dbc217b9b",
+    "url": "/tanntei-app/static/js/2.61b35d3d.chunk.js"
   },
   {
     "revision": "03bb9098728005510d670bcf94223119",
@@ -28,16 +28,24 @@ self.__precacheManifest = [
     "url": "/tanntei-app/static/media/pic2.4b2430ac.jpg"
   },
   {
-    "revision": "e2234a545d291a68e7df",
-    "url": "/tanntei-app/static/js/main.4c209fb5.chunk.js"
+    "revision": "82aa38d5bff601d0270d941553d18cc9",
+    "url": "/tanntei-app/static/media/pic3.82aa38d5.jpg"
   },
   {
-    "revision": "ae76859162efd2fa71e2a4b8eb84753b",
-    "url": "/tanntei-app/static/media/water-1.ae768591.svg"
+    "revision": "d34b32ec5d03934cd3e7",
+    "url": "/tanntei-app/static/js/main.4f5e458d.chunk.js"
   },
   {
     "revision": "4de7ae754a1503c08efda5301c263d95",
     "url": "/tanntei-app/static/media/water-2.4de7ae75.svg"
+  },
+  {
+    "revision": "3cfd6cf6623fce9710adfb23bc4f2ad0",
+    "url": "/tanntei-app/static/media/img1.3cfd6cf6.jpg"
+  },
+  {
+    "revision": "1ad4e3cfb2170b15a14885365bab52da",
+    "url": "/tanntei-app/static/media/img2.1ad4e3cf.jpg"
   },
   {
     "revision": "8c73432ae6504820cafa2162ceb7700f",
@@ -52,11 +60,11 @@ self.__precacheManifest = [
     "url": "/tanntei-app/static/media/iconfont.3258f9a9.svg"
   },
   {
-    "revision": "befa925673f40efe7899",
+    "revision": "6779a5dc802dbc217b9b",
     "url": "/tanntei-app/static/css/2.90ebf25c.chunk.css"
   },
   {
-    "revision": "271e1ee7d11839ef85a0bf333eeba853",
+    "revision": "c982070fe527ffc6309210df990c296e",
     "url": "/tanntei-app/index.html"
   }
 ];
