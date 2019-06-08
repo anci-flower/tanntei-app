@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tanntei-app/precache-manifest.549baa90330ffdf9e0144685c8e2b901.js"
+  "/tanntei-app/precache-manifest.9f39b4a3b568ff2c30392a17deac3c95.js"
 );
 
 workbox.clientsClaim();
